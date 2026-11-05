@@ -8,10 +8,10 @@ I'm aiming at the overlap of AI reliability, neuroscience, and medicine. I'm bas
 
 ## Research
 
-**Probabilistic Chain-of-Thought: Sequential Bayesian Inference over Latent Reasoning Correctness**
+**Probabilistic Chain-of-Thought: Sequential Bayesian Inference over Latent Reasoning Correctness**  
 Accepted at four ICML 2026 workshops (AI4Math, SPIGM, CTB, EIML). We treat each reasoning step as evidence about whether the final answer is correct and update a belief as the chain unfolds. On MATH and GSM8K it cut Expected Calibration Error by 74% and raised accuracy by 14.7 points.
 
-**Calibration Collapse in Multi-Turn Diagnostic Dialogue with Large Language Models**
+**Calibration Collapse in Multi-Turn Diagnostic Dialogue with Large Language Models**  
 Accepted at the NeurIPS 2026 GenAI4Health workshop and IEEE ICHI. Stanford-mentored. Single-turn benchmarks say little about how a model behaves across a whole patient conversation, so we tracked how confidence drifts away from accuracy as a diagnostic dialogue goes on, comparing reasoning and non-reasoning backbones.
 
 **In progress**
@@ -21,10 +21,10 @@ Accepted at the NeurIPS 2026 GenAI4Health workshop and IEEE ICHI. Stanford-mento
 
 ## What I'm building
 
-**[Aptivae](https://aptivae.io)** (co-founder & CEO)
+**[Aptivae](https://aptivae.io)** (co-founder & CEO)  
 The proof layer hiring has never had. Résumés claim skills; we want candidates to show them, with AI-led assessment and expert human graders behind every result.
 
-**Second Thought Initiative**
+**Second Thought Initiative**  
 A student-led AI literacy initiative. We make classroom kits that teach students to question AI answers instead of copying them, and I'm building a companion web app that flags how much you should trust a chatbot's response.
 
 ## Projects
